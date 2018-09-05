@@ -1,0 +1,15 @@
+1. GIT download:
+https://git-scm.com/download/win
+2. GIT instalation.
+3. Open GIT BASH
+4. type: "git clone https://github.com/rafzaj2/Kobylaki-Coders.git"
+5. type: "cd Kobylaki-Coders"
+6. type: "git checkout -b piotrek_training_1"
+7. type: "git branch --set-upstream-to master"
+
+8. How to deliver any changes to repository:
+-git status
+-git add file_name
+-git commit -m "Commit name"
+//-git push https://github.com/rafzaj2/Kobylaki-Coders.git
+-git push origin HEAD:master
